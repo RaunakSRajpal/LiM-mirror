@@ -2,6 +2,8 @@
 
 ### EC571: Digital VLSI Circuit Design — Spring 2025 Boston University
 
+Public mirror to the older branch of [LiM](https://github.com/RaunakSRajpal/LiM) repo: contains the work from EC571 alone
+
 **Authors:** Raunak S. Rajpal, Chih Han "Josh" Yeh
 
 ## Overview
